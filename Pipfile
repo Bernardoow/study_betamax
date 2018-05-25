@@ -12,6 +12,7 @@ name = "pypi"
 [packages]
 
 betamax = "*"
+betamax-serializers = "*"
 
 
 [requires]
